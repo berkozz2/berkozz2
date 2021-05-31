@@ -45,3 +45,4 @@ team spirit.
 <br />
 
 - 🌱 I’m currently learning ... C#,Angular,Python,Java
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/hasan-berk-%C3%B6zmenek%C5%9Fe-bba9a6206/)
