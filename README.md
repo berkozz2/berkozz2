@@ -32,7 +32,7 @@ team spirit.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 <code><img height="20" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
 <code><img height="20" src="https://mennankose.com/content/images/size/w600/2019/09/netcore.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"></code>
