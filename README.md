@@ -39,6 +39,17 @@ team spirit.
 <code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=berkozz2&count_private=true&show_icons=true&theme=tokyonight">
+</p>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkozz2&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
+
+</p>
 
 
 <br />
