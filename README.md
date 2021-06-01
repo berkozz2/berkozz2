@@ -7,7 +7,6 @@ analysis. A candidate who is very suitable for teamwork and has a good
 team spirit.
 .
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/hasan-berk-%C3%B6zmenek%C5%9Fe-bba9a6206/)
-- 📫 How to reach me: ... [Gmail](ozmenekseberk@gmail.com)
 <br />
 
 
