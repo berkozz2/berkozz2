@@ -45,9 +45,7 @@ team spirit.
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=berkozz2&count_private=true&show_icons=true&theme=tokyonight">
 </p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkozz2&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
+ 
 
 </p>
 
